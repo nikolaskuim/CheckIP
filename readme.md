@@ -30,7 +30,7 @@ You can add this script as a cron job.
 5h example:
 
 ```
-0 */5 * * * python3 /home/<change_to_your_home>/check_ip.py
+0 */5 * * * python3 /home/<change_to_your_home>/check_ip.py -l <from>@gmail.com -p <password> -s someone@somewhere.com 
 ```
 
 ## Authors
