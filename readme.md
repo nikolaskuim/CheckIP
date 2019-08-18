@@ -21,7 +21,7 @@ $ python3 ~/check_ip.py -l a.account@gmail.com -p secretPassword -s recipient@gm
 
 ### Prerequisites
 
-* python 3 on a linux environment is required to run this script
+* python 3 on a linux/macosx OS
 * spare gmail account credentials
 
 ### Installing
